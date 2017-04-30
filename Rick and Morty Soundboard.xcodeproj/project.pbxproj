@@ -1,0 +1,346 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		033BC9D61E216C1A00AC35A9 /* cromulons_boo_not_cool.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9CF1E216C1A00AC35A9 /* cromulons_boo_not_cool.wav */; };
+		033BC9D71E216C1A00AC35A9 /* cromulons_good_job.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9D01E216C1A00AC35A9 /* cromulons_good_job.wav */; };
+		033BC9D81E216C1A00AC35A9 /* cromulons_hmm.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9D11E216C1A00AC35A9 /* cromulons_hmm.wav */; };
+		033BC9D91E216C1A00AC35A9 /* cromulons_i_like_what_you_got.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9D21E216C1A00AC35A9 /* cromulons_i_like_what_you_got.wav */; };
+		033BC9DA1E216C1A00AC35A9 /* morty_gazorpazorpfield.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9D31E216C1A00AC35A9 /* morty_gazorpazorpfield.wav */; };
+		033BC9DB1E216C1A00AC35A9 /* morty_oh_man.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9D41E216C1A00AC35A9 /* morty_oh_man.wav */; };
+		033BC9DC1E216C1A00AC35A9 /* rick_aids.wav in Resources */ = {isa = PBXBuildFile; fileRef = 033BC9D51E216C1A00AC35A9 /* rick_aids.wav */; };
+		038A32281E1EC1C3003C1839 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038A32271E1EC1C3003C1839 /* AppDelegate.swift */; };
+		038A322A1E1EC1C3003C1839 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038A32291E1EC1C3003C1839 /* ViewController.swift */; };
+		038A322D1E1EC1C3003C1839 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 038A322B1E1EC1C3003C1839 /* Main.storyboard */; };
+		038A322F1E1EC1C3003C1839 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 038A322E1E1EC1C3003C1839 /* Assets.xcassets */; };
+		038A32321E1EC1C3003C1839 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 038A32301E1EC1C3003C1839 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		033BC9CF1E216C1A00AC35A9 /* cromulons_boo_not_cool.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = cromulons_boo_not_cool.wav; path = Sounds/cromulons_boo_not_cool.wav; sourceTree = SOURCE_ROOT; };
+		033BC9D01E216C1A00AC35A9 /* cromulons_good_job.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = cromulons_good_job.wav; path = Sounds/cromulons_good_job.wav; sourceTree = SOURCE_ROOT; };
+		033BC9D11E216C1A00AC35A9 /* cromulons_hmm.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = cromulons_hmm.wav; path = Sounds/cromulons_hmm.wav; sourceTree = SOURCE_ROOT; };
+		033BC9D21E216C1A00AC35A9 /* cromulons_i_like_what_you_got.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = cromulons_i_like_what_you_got.wav; path = Sounds/cromulons_i_like_what_you_got.wav; sourceTree = SOURCE_ROOT; };
+		033BC9D31E216C1A00AC35A9 /* morty_gazorpazorpfield.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = morty_gazorpazorpfield.wav; path = Sounds/morty_gazorpazorpfield.wav; sourceTree = SOURCE_ROOT; };
+		033BC9D41E216C1A00AC35A9 /* morty_oh_man.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = morty_oh_man.wav; path = Sounds/morty_oh_man.wav; sourceTree = SOURCE_ROOT; };
+		033BC9D51E216C1A00AC35A9 /* rick_aids.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = rick_aids.wav; path = Sounds/rick_aids.wav; sourceTree = SOURCE_ROOT; };
+		038A32241E1EC1C3003C1839 /* Rick and Morty Soundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rick and Morty Soundboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		038A32271E1EC1C3003C1839 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		038A32291E1EC1C3003C1839 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		038A322C1E1EC1C3003C1839 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		038A322E1E1EC1C3003C1839 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		038A32311E1EC1C3003C1839 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		038A32331E1EC1C3003C1839 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		038A32211E1EC1C3003C1839 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		033BC9C41E21483700AC35A9 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				033BC9CF1E216C1A00AC35A9 /* cromulons_boo_not_cool.wav */,
+				033BC9D01E216C1A00AC35A9 /* cromulons_good_job.wav */,
+				033BC9D11E216C1A00AC35A9 /* cromulons_hmm.wav */,
+				033BC9D21E216C1A00AC35A9 /* cromulons_i_like_what_you_got.wav */,
+				033BC9D31E216C1A00AC35A9 /* morty_gazorpazorpfield.wav */,
+				033BC9D41E216C1A00AC35A9 /* morty_oh_man.wav */,
+				033BC9D51E216C1A00AC35A9 /* rick_aids.wav */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+		038A321B1E1EC1C3003C1839 = {
+			isa = PBXGroup;
+			children = (
+				038A32261E1EC1C3003C1839 /* Rick and Morty Soundboard */,
+				038A32251E1EC1C3003C1839 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		038A32251E1EC1C3003C1839 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				038A32241E1EC1C3003C1839 /* Rick and Morty Soundboard.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		038A32261E1EC1C3003C1839 /* Rick and Morty Soundboard */ = {
+			isa = PBXGroup;
+			children = (
+				033BC9C41E21483700AC35A9 /* Sounds */,
+				038A32271E1EC1C3003C1839 /* AppDelegate.swift */,
+				038A32291E1EC1C3003C1839 /* ViewController.swift */,
+				038A322B1E1EC1C3003C1839 /* Main.storyboard */,
+				038A322E1E1EC1C3003C1839 /* Assets.xcassets */,
+				038A32301E1EC1C3003C1839 /* LaunchScreen.storyboard */,
+				038A32331E1EC1C3003C1839 /* Info.plist */,
+			);
+			path = "Rick and Morty Soundboard";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		038A32231E1EC1C3003C1839 /* Rick and Morty Soundboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 038A32361E1EC1C3003C1839 /* Build configuration list for PBXNativeTarget "Rick and Morty Soundboard" */;
+			buildPhases = (
+				038A32201E1EC1C3003C1839 /* Sources */,
+				038A32211E1EC1C3003C1839 /* Frameworks */,
+				038A32221E1EC1C3003C1839 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Rick and Morty Soundboard";
+			productName = "Rick and Morty Soundboard";
+			productReference = 038A32241E1EC1C3003C1839 /* Rick and Morty Soundboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		038A321C1E1EC1C3003C1839 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Sylvester Saracevas";
+				TargetAttributes = {
+					038A32231E1EC1C3003C1839 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 2TB66J9A74;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 038A321F1E1EC1C3003C1839 /* Build configuration list for PBXProject "Rick and Morty Soundboard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 038A321B1E1EC1C3003C1839;
+			productRefGroup = 038A32251E1EC1C3003C1839 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				038A32231E1EC1C3003C1839 /* Rick and Morty Soundboard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		038A32221E1EC1C3003C1839 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				033BC9D71E216C1A00AC35A9 /* cromulons_good_job.wav in Resources */,
+				038A32321E1EC1C3003C1839 /* LaunchScreen.storyboard in Resources */,
+				033BC9D81E216C1A00AC35A9 /* cromulons_hmm.wav in Resources */,
+				033BC9DA1E216C1A00AC35A9 /* morty_gazorpazorpfield.wav in Resources */,
+				033BC9DC1E216C1A00AC35A9 /* rick_aids.wav in Resources */,
+				038A322F1E1EC1C3003C1839 /* Assets.xcassets in Resources */,
+				038A322D1E1EC1C3003C1839 /* Main.storyboard in Resources */,
+				033BC9DB1E216C1A00AC35A9 /* morty_oh_man.wav in Resources */,
+				033BC9D61E216C1A00AC35A9 /* cromulons_boo_not_cool.wav in Resources */,
+				033BC9D91E216C1A00AC35A9 /* cromulons_i_like_what_you_got.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		038A32201E1EC1C3003C1839 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				038A322A1E1EC1C3003C1839 /* ViewController.swift in Sources */,
+				038A32281E1EC1C3003C1839 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		038A322B1E1EC1C3003C1839 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				038A322C1E1EC1C3003C1839 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		038A32301E1EC1C3003C1839 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				038A32311E1EC1C3003C1839 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		038A32341E1EC1C3003C1839 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		038A32351E1EC1C3003C1839 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		038A32371E1EC1C3003C1839 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2TB66J9A74;
+				INFOPLIST_FILE = "Rick and Morty Soundboard/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "saracevas.co.uk.Rick-and-Morty-Soundboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		038A32381E1EC1C3003C1839 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2TB66J9A74;
+				INFOPLIST_FILE = "Rick and Morty Soundboard/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "saracevas.co.uk.Rick-and-Morty-Soundboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		038A321F1E1EC1C3003C1839 /* Build configuration list for PBXProject "Rick and Morty Soundboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				038A32341E1EC1C3003C1839 /* Debug */,
+				038A32351E1EC1C3003C1839 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		038A32361E1EC1C3003C1839 /* Build configuration list for PBXNativeTarget "Rick and Morty Soundboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				038A32371E1EC1C3003C1839 /* Debug */,
+				038A32381E1EC1C3003C1839 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 038A321C1E1EC1C3003C1839 /* Project object */;
+}
