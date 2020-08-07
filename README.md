@@ -2,7 +2,7 @@
 
 ### About
 
-To commemorate the release of Rick and Morty season 3, I have created a little soundboard application featuring the characters from the show and their most notable quotes. The project is still extremely rough (not mentioning content lacking), and is far from being ready to be released into the wild. Perhaps some day. 
+To commemorate the release of Rick and Morty season 3, I have created a little soundboard application featuring the characters from the show and their most notable quotes. The project is still extremely rough (not to mention content lacking), and is far from being ready to be released into the wild. Perhaps some day. 
 
 ### Screenshots
 
